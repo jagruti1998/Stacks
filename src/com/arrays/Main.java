@@ -1,5 +1,7 @@
-import com.stacks.ArrayStack;
-import com.stacks.Employee;
+package com.arrays;
+
+import com.arrays.ArrayStack;
+import com.arrays.Employee;
 
 public class Main {
     public static void main(String[] args) {
